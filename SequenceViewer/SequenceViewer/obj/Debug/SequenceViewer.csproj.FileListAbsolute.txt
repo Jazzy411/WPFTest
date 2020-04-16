@@ -1,0 +1,15 @@
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\bin\Debug\SequenceViewer.exe
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\bin\Debug\SequenceViewer.pdb
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer.csprojResolveAssemblyReference.cache
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\MainWindow.g.cs
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\App.g.cs
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer_MarkupCompile.cache
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer_MarkupCompile.lref
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\MainWindow.baml
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer.g.resources
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer.Properties.Resources.resources
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer.csproj.GenerateResource.cache
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer.exe
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\SequenceViewer.pdb
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\App.baml
+D:\ProjectDev\WPF\SequenceViewer\SequenceViewer\obj\Debug\ListStyles.baml
